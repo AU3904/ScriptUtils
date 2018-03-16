@@ -1,3 +1,1 @@
-i
-
-# shuifeil.github.io
+# 脚本语言的日常积累
